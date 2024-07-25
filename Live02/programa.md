@@ -295,6 +295,7 @@ título
             visual 
                 cores 
                     atribuir ou default 
+                        #FFFF00
                 rotulos de dados 
                     habilitado 
                 rotulos de categorias 
